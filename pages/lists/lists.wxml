@@ -1,0 +1,46 @@
+<!--pages/lists/lists.wxml-->
+<view class="lists">  
+  <view class="list-box">
+      <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+      <view class="nr">
+        <view class="list-title">什么样的社区产品才是最好的？</view>
+        <view class="sj">2018-01-16</view>
+      </view>
+  </view>
+  <view class="list-box">
+    <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+    <view class="nr">
+      <view class="list-title">什么样的社区产品才是最好的？</view>
+      <view class="sj">2018-01-16</view>
+    </view>
+  </view>
+   <view class="list-box">
+    <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+    <view class="nr">
+      <view class="list-title">什么样的社区产品才是最好的？</view>
+      <view class="sj">2018-01-16</view>
+    </view>
+  </view>
+   <view class="list-box">
+    <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+    <view class="nr">
+      <view class="list-title">什么样的社区产品才是最好的？</view>
+      <view class="sj">2018-01-16</view>
+    </view>
+  </view>
+   <view class="list-box">
+    <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+    <view class="nr">
+      <view class="list-title">什么样的社区产品才是最好的？</view>
+      <view class="sj">2018-01-16</view>
+    </view>
+  </view>
+  <view class="list-box">
+    <view class="list-img"><image src="../../images/7.jpg" class="list_img"></image></view>
+    <view class="nr">
+      <view class="list-title">什么样的社区产品才是最好的？</view>
+      <view class="sj">2018-01-16</view>
+    </view>
+  </view>
+</view>
+

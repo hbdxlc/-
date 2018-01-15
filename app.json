@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/lists/lists",   
+    "pages/about/about",
+    "pages/detail/detail",
+    "pages/index/index",
+    "pages/logs/logs"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "河北嘉旭福美科技股份有限公司",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": "true",
+    "backgroundColor": "#fff"
+  },
+  "tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#000",
+    "backgroundColor": "#fff",
+    "borderStyle": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/lists/lists",
+        "text": "首页",
+        "iconPath": "images/1.png",
+        "selectedIconPath": "images/2.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "关于我们",
+        "iconPath": "images/3.png",
+        "selectedIconPath": "images/4.png"
+      }
+    ]
+  }
+}

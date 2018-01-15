@@ -1,0 +1,28 @@
+/* pages/lists/lists.wxss */
+.list-box{
+  margin-top: 20px;
+  height:100px;
+  background: #eee;
+  padding: 10px 5px;
+}
+.list-box>view{
+  float:left;
+  margin-left:5%;
+}
+.list-img{
+  width:30%;
+  height: auto;
+}
+.list_img{
+  width:100%;
+  height: 100px;
+}
+.nr{
+  width:60%
+}
+.list-title{
+
+}
+.sj{
+  margin-top: 30px;
+}
